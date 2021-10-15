@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Calculations
+/Calculations/bin
+/Calculations/obj
+/Calculations.Tests/bin
+/Calculations.Tests/obj
